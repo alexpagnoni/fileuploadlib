@@ -1,0 +1,22 @@
+                                CHANGES
+                                =======
+
+
+
+1.0.2 - 2003/03/25
+------------------
+CHANGES:
+- Now module category is "libraries". (wuh)
+
+
+
+1.0.1 - 2002/07/22
+------------------
+CHANGES:
+- Now the "-" character is accepted in file names.
+
+
+
+1.0.0 - 2002/12/15
+------------------
+- First release.

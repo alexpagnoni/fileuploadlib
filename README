@@ -1,0 +1,69 @@
+General information
+-------------------
+
+fileupload.class can be used to upload image and text files with a web
+browser. The uploaded file's name will get cleaned up - special characters
+will be deleted, and spaces get replaced with underscores, and moved to
+a specified directory (on your server). fileupload.class also does its
+best to determine the file's type (text, GIF, JPEG, etc). If the user
+has named the file with the correct extension (.txt, .gif, etc), then
+the class will use that, but if the user tries to upload an ex tensionless
+file, PHP does can identify text, gif, jpeg, and png files for you. As
+a last resort, if there is no specified extension, and PHP can not
+determine the type, you can set a default extension to be added.
+
+
+
+License
+-------
+
+See the file named LICENSE.
+
+
+
+Requirements
+------------
+
+Serverside:
+	A working Ampoliros II platform installation.
+
+Clientside:
+	a web browser with HTML 4.0 and CSS support.
+
+
+
+Installation
+------------
+
+See the file named INSTALL.
+
+
+
+Additional Information
+----------------------
+
+FileUploadLib official home page:
+	http://www.ampoliros.com/
+
+FileUploadLib latest distribution:
+	http://www.ampoliros.com/
+
+Magellan mailing lists:
+	none at the moment
+
+Ampoliros official home page:
+	http://www.ampoliros.com
+
+To submit a bug report:
+	send an email to bugs@ampoliros.com
+
+To submit a support request:
+	send an email to support@ampoliros.com
+
+
+
+Disclaimer
+----------
+
+There is no warranty, expressed or implied, associated with this product.
+Use at your own risk.
